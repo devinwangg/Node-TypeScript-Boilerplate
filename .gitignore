@@ -26,3 +26,6 @@ node_modules/
 .env.test
 .env.developement
 .env.production
+
+# Build files
+build
